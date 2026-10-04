@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "https://ara-yjx.github.io/stimulize-beta/static/css/main.2849a661.css",
-    "main.js": "https://ara-yjx.github.io/stimulize-beta/static/js/main.525536f9.js",
+    "main.js": "https://ara-yjx.github.io/stimulize-beta/static/js/main.421a8e1f.js",
     "static/css/816.65d6b5da.chunk.css": "https://ara-yjx.github.io/stimulize-beta/static/css/816.65d6b5da.chunk.css",
-    "static/js/816.664aaff0.chunk.js": "https://ara-yjx.github.io/stimulize-beta/static/js/816.664aaff0.chunk.js",
+    "static/js/816.c3e4d074.chunk.js": "https://ara-yjx.github.io/stimulize-beta/static/js/816.c3e4d074.chunk.js",
     "static/js/453.eae8a547.chunk.js": "https://ara-yjx.github.io/stimulize-beta/static/js/453.eae8a547.chunk.js",
     "static/js/124.958aee23.chunk.js": "https://ara-yjx.github.io/stimulize-beta/static/js/124.958aee23.chunk.js",
     "index.html": "https://ara-yjx.github.io/stimulize-beta/index.html",
     "main.2849a661.css.map": "https://ara-yjx.github.io/stimulize-beta/static/css/main.2849a661.css.map",
-    "main.525536f9.js.map": "https://ara-yjx.github.io/stimulize-beta/static/js/main.525536f9.js.map",
+    "main.421a8e1f.js.map": "https://ara-yjx.github.io/stimulize-beta/static/js/main.421a8e1f.js.map",
     "816.65d6b5da.chunk.css.map": "https://ara-yjx.github.io/stimulize-beta/static/css/816.65d6b5da.chunk.css.map",
-    "816.664aaff0.chunk.js.map": "https://ara-yjx.github.io/stimulize-beta/static/js/816.664aaff0.chunk.js.map",
+    "816.c3e4d074.chunk.js.map": "https://ara-yjx.github.io/stimulize-beta/static/js/816.c3e4d074.chunk.js.map",
     "453.eae8a547.chunk.js.map": "https://ara-yjx.github.io/stimulize-beta/static/js/453.eae8a547.chunk.js.map",
     "124.958aee23.chunk.js.map": "https://ara-yjx.github.io/stimulize-beta/static/js/124.958aee23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2849a661.css",
-    "static/js/main.525536f9.js"
+    "static/js/main.421a8e1f.js"
   ]
 }
